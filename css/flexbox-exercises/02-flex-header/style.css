@@ -1,0 +1,40 @@
+.header{
+    font-family: monospace;
+    background-color: papayawhip;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-flow:row wrap;
+
+}
+
+
+ul{
+    
+    list-style-type: none;
+
+    display: flex;
+    padding:0%;
+    /*flex-flow:row wrap;*/
+}
+
+.logo{
+    font-size:48px;
+    font-weight: 900;
+    color:tomato;
+    background-color: white;
+    padding: 4px 32px;
+    margin: 10px;
+
+}
+
+a{
+    font-size: 22px;
+    background-color:white;
+    padding:8px;
+    text-decoration: none;
+    margin: 10px;
+
+
+}
