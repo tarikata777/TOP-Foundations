@@ -1,0 +1,17 @@
+.container{
+    display:flex;
+    height: 300px;
+    width: 400px;
+    background-color: blue;
+    border: 4px solid midnightblue;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    width:100px;
+    height:100px;
+    background-color: palevioletred;
+    border: 7px solid darkred;
+    font-weight: bold;
+}
